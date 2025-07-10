@@ -39,3 +39,6 @@ with open(output_file, 'w') as file:
     file.write(f"\n---\n")
 
 
+print(" ".center(50))
+with open(output_file, 'r') as file:
+    print(file.read())
