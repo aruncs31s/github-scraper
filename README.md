@@ -1,9 +1,9 @@
 # github-scraper
-
 ! Under Construction 
 This name may not reflect the actual purpose , may get changed later.
+
 ## Contribution 
-This projects main goal is to convert this [template](https://raw.githubusercontent.com/aruncs31s/es_gcek_electronics_projects_template/refs/heads/main/README.md) to this [template](https://raw.githubusercontent.com/mearashadowfax/ScrewFast/refs/heads/main/src/content/products/en/item-t845.md), First one will be [Embedded Systems And IOT GCEK(ESDC-> Embedded Systems Design Club's)](https://github.com/Embedded-Systems-GCEK) **Electronics Projects** starter template.
+The main objective of this project  is to  convert from this [template](https://raw.githubusercontent.com/aruncs31s/es_gcek_electronics_projects_template/refs/heads/main/README.md) to this [template](https://raw.githubusercontent.com/mearashadowfax/ScrewFast/refs/heads/main/src/content/products/en/item-t845.md), First one will be [Embedded Systems And IOT GCEK(ESDC-> Embedded Systems Design Club's)](https://github.com/Embedded-Systems-GCEK) **Electronics Projects** starter template.
 
 
 #### So How to contribute? 
@@ -14,7 +14,7 @@ item-b203.md
 item-f303.md
 item-t845.md
 ```
-this files will serve as the base content for the website , which means , all the contents for a project entry in the [projects page](https://es-gcek.netlify.app/projects/) , this will show some random contents but acutally if you select one of that , eg: Machine Screws you can see that , has the same title as the title in `item-t845.md`( you have to open the file to see it) 
+this files will serve as the base content for the website , which means , all the contents for a project entry in the [projects page](https://es-gcek.netlify.app/projects/) (clicking this link this will show some random contents but acutally if you select one of that , eg: Machine Screws you can see that , has the same title as the title in `item-t845.md`( you have to open the file to see it) )
 
 #### Why all this? 
 Our goal is to convert the `README.md` of our projects to the required format , required format in the sense that the structured format like `item-t845.md` this one has.
